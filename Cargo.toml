@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "basetype",
+    "message_a",
+    "message_b"
+]
